@@ -16,7 +16,7 @@ public class ClassOne {
 	
 	System.out.println("git local branch feature");
 		
-
+System.out.println("ısrarla burada masterdan conflict");
 
 	}
 
