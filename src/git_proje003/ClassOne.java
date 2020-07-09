@@ -14,7 +14,7 @@ public class ClassOne {
 		System.out.println("remote master branch");
 	System.out.println("remote ikinci komut master dan");
 		
-
+System.out.println("ısrarla burada masterdan conflict");
 
 	}
 
