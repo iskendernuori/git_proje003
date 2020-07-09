@@ -13,6 +13,8 @@ public class ClassOne {
 		
 		System.out.println("remote master branch");
 	System.out.println("remote ikinci komut master dan");
+	
+	System.out.println("git local branch feature");
 		
 
 
